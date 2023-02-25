@@ -1,0 +1,114 @@
+.app-logo {
+  width: 100px;
+}
+
+.password-manager-img {
+  width: 250px;
+}
+
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  min-height: 100vh;
+  align-items: center;
+  background-color: #9ba9eb;
+  color: #ffffff;
+}
+
+.password-input-container {
+  display: flex;
+  justify-content: space-around;
+  background-color: #5763a5;
+  padding: 5%;
+  width: 100%;
+  align-items: center;
+  margin: 20px;
+}
+.logo {
+  height: 30px;
+  width: 30px;
+  border: 1px solid;
+  padding: 4px;
+  background-color: #ffffff;
+}
+.input {
+  height: 30px;
+  border: 0px;
+  margin: 10px;
+  width: 90%;
+}
+.input-container {
+  display: flex;
+  align-items: center;
+  width: 90%;
+}
+.password-input-form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #454f84;
+  width: 50%;
+  padding: 5px;
+}
+.add-button {
+  background-color: #0b69ff;
+  color: #ffffff;
+  border: 0px;
+  width: 80px;
+  height: 25px;
+  align-self: flex-end;
+  border-radius: 10px;
+  margin: 20px;
+  cursor: pointer;
+}
+
+.output-container {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  background-color: #5763a5;
+}
+
+.top-section {
+  display: flex;
+  justify-content: space-around;
+}
+
+.counter-section {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.counter {
+  margin-left: 10px;
+  border: 1px solid #ffffff;
+  margin: 20px;
+  padding: 0px 10px 0px 10px;
+  border-radius: 20px;
+  font-size: 14px;
+}
+.input-website-container {
+  display: flex;
+}
+
+.no-passwords-image {
+  width: 200px;
+}
+.no-passwords-container {
+  align-self: center;
+}
+.outputs {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.toggle-view {
+  align-self: flex-end;
+}
+
+.search-element {
+  align-items: center;
+}

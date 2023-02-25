@@ -1,0 +1,38 @@
+.button {
+  background-color: transparent;
+  border: 0px;
+  cursor: pointer;
+}
+
+.icon {
+  width: 20px;
+}
+
+.password-item {
+  display: flex;
+  align-items: center;
+  width: 200px;
+  justify-content: space-around;
+  border: 1px solid #b6c3ca;
+  font-size: 14px;
+  padding: 0px;
+  margin: 20px;
+}
+
+.avatar {
+  background-color: blue;
+  border-radius: 30px;
+  height: 50px;
+  width: 50px;
+  text-align: center;
+  font-size: 22px;
+  padding: 10px;
+}
+
+.password-info {
+  align-items: center;
+}
+
+.stars-img {
+  width: 100px;
+}
